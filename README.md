@@ -5,7 +5,7 @@
 - Cloud Provider: Google Cloud Platform [GCP]
 
 ## Video recording: 
-- Zoom/Loom: [Deplying a Flask App](https://drive.google.com/file/d/1r7MwIj6aWf-LHcCrAOQ1xdsz_fm9WyUZ/view?usp=sharing)
+- Zoom/Loom: [Deploying a Flask App](https://drive.google.com/file/d/1r7MwIj6aWf-LHcCrAOQ1xdsz_fm9WyUZ/view?usp=sharing)
 
 ## Steps
 ### 1. VM Creation
