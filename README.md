@@ -1,4 +1,4 @@
-# Flask on Cloud VM (Assignment 2)
+# Assignment 2 Flask on Cloud VM 
 
 ## Student Info
 - Name: Cynthia Chen
